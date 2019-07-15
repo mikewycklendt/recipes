@@ -1,0 +1,8 @@
+steak
+marinate in olive oil
+sprinkle:
+	seasoning salt
+	minced onions
+	crushed red peppers
+	parsley
+	oregano
